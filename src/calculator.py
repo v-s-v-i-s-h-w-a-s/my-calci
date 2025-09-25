@@ -38,8 +38,6 @@ def square_root(a):
     return a**0.5
 
 
-# TODO: Students will add multiply, divide, power, sqrt functions
-
 if __name__ == "__main__":
     print("🧮 Calculator Module")
     print(f"2 + 3 = {add(2, 3)}")

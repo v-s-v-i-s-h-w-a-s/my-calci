@@ -1,6 +1,6 @@
 {
   "errors": [],
-  "generated_at": "2025-09-25T17:43:59Z",
+  "generated_at": "2025-09-25T19:33:50Z",
   "metrics": {
     "_totals": {
       "CONFIDENCE.HIGH": 0,
@@ -11,7 +11,7 @@
       "SEVERITY.LOW": 0,
       "SEVERITY.MEDIUM": 0,
       "SEVERITY.UNDEFINED": 0,
-      "loc": 30,
+      "loc": 67,
       "nosec": 0,
       "skipped_tests": 0
     },
@@ -38,6 +38,19 @@
       "SEVERITY.MEDIUM": 0,
       "SEVERITY.UNDEFINED": 0,
       "loc": 30,
+      "nosec": 0,
+      "skipped_tests": 0
+    },
+    "src/cli.py": {
+      "CONFIDENCE.HIGH": 0,
+      "CONFIDENCE.LOW": 0,
+      "CONFIDENCE.MEDIUM": 0,
+      "CONFIDENCE.UNDEFINED": 0,
+      "SEVERITY.HIGH": 0,
+      "SEVERITY.LOW": 0,
+      "SEVERITY.MEDIUM": 0,
+      "SEVERITY.UNDEFINED": 0,
+      "loc": 37,
       "nosec": 0,
       "skipped_tests": 0
     }
